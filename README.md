@@ -23,5 +23,19 @@
 
 ### Aula 4
 
-* Passagem de parâmetros utilizando os métodos get e post
+Passagem de parâmetros utilizando os métodos Get e Post
+
+### Aula 5
+
+* Criação do formulário para envio de dados
+
+### Aula 6
+
+* Diferenças na forma de envio dos dados utilizandos os métodos Get e Post
+
+### Aula 7
+
+* Limitando o serviço apenas ao método Post
+
+### 
 
