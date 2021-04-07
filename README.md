@@ -63,3 +63,10 @@
 ### Aula 8
 
 * Retirando o código html da classe ListaEmpresasServlet
+
+## JSTL e Expression Language
+
+### Aula 2
+
+* Substituindo scriptlet por Expression Language
+  * <% %> vs ${ }
