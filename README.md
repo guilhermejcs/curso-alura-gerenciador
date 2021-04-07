@@ -57,4 +57,9 @@
 
 ### Aula 6
 
-* Passando informações para a JPS com o método Dispatcher.
+* Passando informações para a JPS com o método Dispatcher
+* Retirando o código html da classe NovaEmpresaServlet
+
+### Aula 8
+
+* Retirando o código html da classe ListaEmpresasServlet
