@@ -46,3 +46,15 @@
 ### Aula 5
 
 * Criação do servlet para listar as empresas cadastradas
+
+## Páginas dinâmicas com JSP
+
+### Aula 2
+
+* Tirando o código html de dentro da classe java
+* Criação de um arquivo JSP (Java Server Page)
+* Usando scriptlet para fazer páginas dinâmicas  <% %>
+
+### Aula 6
+
+* Passando informações para a JPS com o método Dispatcher.
