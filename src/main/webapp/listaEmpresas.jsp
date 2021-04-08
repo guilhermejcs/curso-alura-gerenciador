@@ -11,7 +11,11 @@
 <title>Java Standard Taglib</title>
 </head>
 <body>
-	Lista de empresas:
+
+	<c:if test="${not empty empresa}">
+		Empresa ${empresa} cadastrada com sucesso!	<br>
+	</c:if>
+		Lista de empresas:
 	<br>
 	<ul>
 		<c:forEach items="${empresas}" var="empresa">

@@ -87,3 +87,13 @@
 
 * Utilização dos comandos da lib JSTL fmt
   * fmt - formatação de datas
+
+## Redirecionando o fluxo
+
+### Aula 2
+
+* Enviando um informação de uma Servlet para outra Servlet utilizando o Dispatcher
+
+### Aula 5
+
+* Usando o redirecionamento response.sendRedirect
