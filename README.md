@@ -79,6 +79,11 @@
 
 ### Aula 8
 
-* Utilização dos comandos da lib JSTL
+* Utilização dos comandos da lib JSTL core
   * c:url - cria uma variável que pode ser utilizada como link
   * c:if - cria uma ação condicional
+
+### Aula 10
+
+* Utilização dos comandos da lib JSTL fmt
+  * fmt - formatação de datas
