@@ -97,3 +97,15 @@
 ### Aula 5
 
 * Usando o redirecionamento response.sendRedirect
+
+## Completando o CRUD
+
+### Aula 2
+
+* Explicação dos métodos a serem implementados
+
+## Aula 4
+
+* Utilizando Iterator
+* Removendo uma empresa
+* Usando o redirecionamento
