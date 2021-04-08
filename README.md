@@ -117,3 +117,19 @@
 ### Aula 7
 
 * Editando os dados da empresa
+
+## Deploy da aplicação
+
+### Aula 2
+
+* Configurando o web.xml
+
+### Aula 5
+
+* Inversão de controle:
+  * Tomcat faz a instanciação do servlet
+  * O Tomcat só cria o servlet quando solicitado (Lazy).
+
+### Aula 9
+
+* Deploy da aplicação
