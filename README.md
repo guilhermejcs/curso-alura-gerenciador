@@ -70,3 +70,15 @@
 
 * Substituindo scriptlet por Expression Language
   * <% %> vs ${ }
+
+### Aula 5
+
+* Alteração do Tomcat 10 para o 9 por incompatibilidade com a lib JSTL
+* Alteração das importações do jackarta para javax
+* Refatoração do arquivo listaEmpreas para substituir os scriptlet pelas funcionalidades da lib JTSL
+
+### Aula 8
+
+* Utilização dos comandos da lib JSTL
+  * c:url - cria uma variável que pode ser utilizada como link
+  * c:if - cria uma ação condicional
