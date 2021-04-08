@@ -104,8 +104,13 @@
 
 * Explicação dos métodos a serem implementados
 
-## Aula 4
+### Aula 4
 
 * Utilizando Iterator
 * Removendo uma empresa
 * Usando o redirecionamento
+
+### Aula 6
+
+* Editando os dados da empresa
+
