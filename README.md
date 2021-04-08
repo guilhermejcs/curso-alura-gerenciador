@@ -112,5 +112,8 @@
 
 ### Aula 6
 
-* Editando os dados da empresa
+* Criando o formulário de alteração da empresa
 
+### Aula 7
+
+* Editando os dados da empresa
